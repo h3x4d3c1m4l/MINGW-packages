@@ -22,7 +22,7 @@ depends=("${MINGW_PACKAGE_PREFIX}-libsystre"
 makedepends=("${MINGW_PACKAGE_PREFIX}-cc"
              "${MINGW_PACKAGE_PREFIX}-autotools"
              "${MINGW_PACKAGE_PREFIX}-doxygen")
-source=("git+https://github.com/gphoto/libgphoto2/"
+source=("git+https://github.com/gphoto/libgphoto2"
         "libgphoto2-gp_system_filename-fix.patch"
         "libgphoto2-configure-ws232.patch")
 sha256sums=('SKIP'
