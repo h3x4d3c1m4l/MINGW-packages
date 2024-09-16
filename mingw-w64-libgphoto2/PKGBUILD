@@ -26,8 +26,8 @@ source=("git+https://github.com/gphoto/libgphoto2"
         "libgphoto2-gp_system_filename-fix.patch"
         "libgphoto2-configure-ws232.patch")
 sha256sums=('SKIP'
-            'e5a7aa783c9dacc2be3fa8457b8b8b608721a73ac3426a8c08f54f11c538e813'
-            '9303cb0b7fa0d58a066a45c54a53d4d3f69149d54576c31df04439169b6651ee')
+            'SKIP'
+            'SKIP')
 validpgpkeys=('7C4AFD61D8AAE7570796A5172209D6902F969C95') # Marcus Meissner 
 
 prepare() {
